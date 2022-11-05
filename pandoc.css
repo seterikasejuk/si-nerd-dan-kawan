@@ -61,11 +61,9 @@ a::selection {
   color: #0645ad;
 }
 
-p {text-indent: 2em;
+p {
   margin: 1em 0;
 }
-
-p.noindent {text-indent: 0% }
 
 img {
   max-width: 100%;
