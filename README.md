@@ -4,7 +4,7 @@ Cerita penuh boleh dijumpai di fail yang bernama: 01.epub atau 01.htm
 
 ## Baca di laman web
 Untuk baca di laman web, sila salin url di bawah:</br>
-https://htmlpreview.github.io/?https://github.com/seterikasejuk/si-nerd-dan-kawan/main/01.htm
+https://htmlpreview.github.io/?https://github.com/seterikasejuk/si-nerd-dan-kawan/main/SI%20NERD%20DAN%20KAWAN.html
 
 Format html diinspirasi oleh [Project Gutenberg](https://www.gutenberg.org/).
 
