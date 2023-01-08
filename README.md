@@ -14,4 +14,4 @@ Gunakan aplikasi *e-reader* seperti Google PlayBook, Moon+ Reader
 untuk membuka fail epub.
 
 Klik url di bawah untuk muat turun versi epub:</br>
-https://github.com/seterikasejuk/si-nerd-dan-kawan/raw/main/01.epub
+https://github.com/seterikasejuk/si-nerd-dan-kawan/raw/main/Si%20Nerd%20dan%20Kawan.epub
